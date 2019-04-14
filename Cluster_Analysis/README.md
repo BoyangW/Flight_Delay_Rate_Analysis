@@ -1,4 +1,4 @@
-### Flight Delay Rate Machine Learning Part
+### Flight Delay Rate Cluster Analysis Part
 <p>Website: https://boywei.georgetown.domains/Flight_Delay_Analysis/cluster.html</p>
 
 <H4>Dataset</H4>
