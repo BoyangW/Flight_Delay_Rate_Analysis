@@ -1,4 +1,4 @@
-### Flight Delay Rate Machine Learning Part
+### Flight Delay Rate Exploratory Data Analysis(EDA) Part
 <p>Website: https://boywei.georgetown.domains/Flight_Delay_Analysis/EDA.html</p>
 
 <H4>Dataset</H4>
