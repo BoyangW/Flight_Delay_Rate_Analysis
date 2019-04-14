@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 11 01:08:06 2018
-
-@author: wangguanzhi
-"""
 '''
 This code use another package's apriori algorithm.
 The input data format and output format are different from the 'apriori' package.
