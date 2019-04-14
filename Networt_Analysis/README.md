@@ -54,3 +54,8 @@
   </li>
 </ul>
 		
+<H4>2D and 3D Network Graphs</H4>
+<picture>
+  <img src="https://github.com/BoyangW/Flight_Delay_Rate_Analysis/blob/master/Networt_Analysis/2D-demo.png" alt="2D-network" style="width:auto;">
+<img src="https://github.com/BoyangW/Flight_Delay_Rate_Analysis/blob/master/Networt_Analysis/3D-demo.png" alt="3D-network" style="width:auto;">
+</picture>
