@@ -1,4 +1,4 @@
-### Flight Delay Rate Machine Learning Part
+### Flight Delay Rate Hypothesis Testing
 
 <H4>Dataset</H4>
 <ul>
